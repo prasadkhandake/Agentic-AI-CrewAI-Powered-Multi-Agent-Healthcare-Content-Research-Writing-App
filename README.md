@@ -17,6 +17,7 @@ A powerful content generation system built with CrewAI that combines research, a
 
 - Python 3.9+
 - OpenAI API key
+- GEMINI_API_KEY
 - WolframAlpha API key
 
 ## 🛠️ Installation
@@ -44,6 +45,7 @@ pip install -r requirements.txt
 ```env
 OPENAI_API_KEY=your_openai_api_key
 SERPER_API_KEY=your_serper_key
+GEMINI_API_KEY=your_gemini_api_key
 ```
 
 ## 🚀 Running the Application
